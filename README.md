@@ -1,6 +1,7 @@
 # Beecrowd/URI Solutions in Ruby  
 
 ![Ruby Illustration](misc/ruby.jpg)  
+<p align="right">Illustration from "https://bestarion.com/top-skills-and-capacities-of-a-ror-developer/"</p>
 
 I made this repository to save my codes from beecrowd while studying **Ruby** and practicing problem solving for technical interviews. If you're walking the same path as me and came across it somehow, i hope it could be useful to you.  
 
