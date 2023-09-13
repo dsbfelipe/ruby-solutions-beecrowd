@@ -17,4 +17,3 @@ I made this repository to keep my codes from beecrowd while studying **Ruby** an
 
 ![beecrowd Logo](misc/header.png) 
 
-<p align="center">Consider leaving a star if this helped you! </p>
